@@ -16,3 +16,7 @@ Small script to create at and after trigger with parameters.
 ### [async](https://script.google.com/d/1oYg_C9uCUAnAzePKXX9SxL8b5x-mVnnGWIH-LC-PzzPzhFRqfwrC3ae0/edit?usp=sharing)
 
 The purpose was to start multiple script at once without client intervention, also on googles servers only. Every other solution I found had a client frontend more or less and couldn't be used. So sadly the only way I found was with a blocking post request, it still does work but it hangs the caller script and is limited to 30 seconds before google timeouts the request.
+
+### [sharedFiles](https://script.google.com/d/MVTJyqxeGV5SXEmkYBQm0BXJw_UllaxJx/edit)
+
+Spreadsheet add-on to display all shared files of the user.
